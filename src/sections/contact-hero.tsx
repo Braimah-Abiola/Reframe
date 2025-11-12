@@ -22,7 +22,7 @@ const ContactHero = () => {
                 <h2 className=" mt-4 md:mt-2 font-montserrat font-semibold text-4xl md:text-6xl tracking-tighter text-center capitalize">
                     Let’s Create Something <br className=" hidden md:block" /> Amazing Together
                 </h2>
-                <p className="opacity-70 max-w-prose mx-auto text-center text-balance mt-2 text-sm md:text-base">We’ll tailor a solution that fits your goals perfectly. Book a discovery call or request a custom quote below.</p>
+                <p className="opacity-70 max-w-prose mx-auto text-center text-balance mt-2 text-sm md:text-base">We’ll tailor a solution that fits your goals perfectly. Book a discovery call below.</p>
                 {/* <div className=" w-fit mt-4">
                     <CustomQuoteDialog trigger={<PrimaryButton fullWidth text="Get A Quote Now" />} />
                 </div> */}

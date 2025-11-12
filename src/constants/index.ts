@@ -1471,8 +1471,8 @@ export const companyLinks = [
     href: "/contact",
   },
   {
-    title: "Blogs",
-    href: "/blogs",
+    title: "Blog",
+    href: "/blog",
   },
   {
     title: "Careers",
